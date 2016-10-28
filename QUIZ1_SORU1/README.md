@@ -1,4 +1,4 @@
-Soru 1
+Soru 1:
 İlk soru için aşağıda bulunan kodu kopyalayıp kullanarak program için gerekli olan iki boyutlu
 diziyi oluşturunuz.
 İki boyutlu dizi de bulunan bilgiler hata kodları olarak düşünülebilir. İlki hatanın majör değeri
