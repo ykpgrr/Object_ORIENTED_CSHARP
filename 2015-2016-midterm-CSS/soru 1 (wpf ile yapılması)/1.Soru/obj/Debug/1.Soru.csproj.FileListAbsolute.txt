@@ -1,0 +1,32 @@
+C:\Users\EDE\Desktop\Object Orienterd Programming\1.Soru\1.Soru\bin\Debug\1.Soru.exe.config
+C:\Users\EDE\Desktop\Object Orienterd Programming\1.Soru\1.Soru\bin\Debug\1.Soru.exe
+C:\Users\EDE\Desktop\Object Orienterd Programming\1.Soru\1.Soru\bin\Debug\1.Soru.pdb
+C:\Users\EDE\Desktop\Object Orienterd Programming\1.Soru\1.Soru\obj\Debug\1.Soru.csprojResolveAssemblyReference.cache
+C:\Users\EDE\Desktop\Object Orienterd Programming\1.Soru\1.Soru\obj\Debug\MainWindow.baml
+C:\Users\EDE\Desktop\Object Orienterd Programming\1.Soru\1.Soru\obj\Debug\MainWindow.g.cs
+C:\Users\EDE\Desktop\Object Orienterd Programming\1.Soru\1.Soru\obj\Debug\App.g.cs
+C:\Users\EDE\Desktop\Object Orienterd Programming\1.Soru\1.Soru\obj\Debug\1.Soru_MarkupCompile.cache
+C:\Users\EDE\Desktop\Object Orienterd Programming\1.Soru\1.Soru\obj\Debug\1.Soru.g.resources
+C:\Users\EDE\Desktop\Object Orienterd Programming\1.Soru\1.Soru\obj\Debug\_1.Soru.Properties.Resources.resources
+C:\Users\EDE\Desktop\Object Orienterd Programming\1.Soru\1.Soru\obj\Debug\1.Soru.csproj.GenerateResource.Cache
+C:\Users\EDE\Desktop\Object Orienterd Programming\1.Soru\1.Soru\obj\Debug\1.Soru.exe
+C:\Users\EDE\Desktop\Object Orienterd Programming\1.Soru\1.Soru\obj\Debug\1.Soru.pdb
+D:\Desktop\1.Soru\1.Soru\bin\Debug\1.Soru.exe.config
+D:\Desktop\1.Soru\1.Soru\obj\Debug\1.Soru.exe
+D:\Desktop\1.Soru\1.Soru\obj\Debug\1.Soru.pdb
+D:\Google Drive\Education\İTÜ Dersler\3. Sene Bahar S0302\BLG 252E - Object Oriented Programming (C#)\C# vize öncesi\vize 1 in wpf ile yapılması\1.Soru\bin\Debug\1.Soru.exe.config
+D:\Google Drive\Education\İTÜ Dersler\3. Sene Bahar S0302\BLG 252E - Object Oriented Programming (C#)\C# vize öncesi\vize 1 in wpf ile yapılması\1.Soru\obj\Debug\1.Soru.exe
+D:\Google Drive\Education\İTÜ Dersler\3. Sene Bahar S0302\BLG 252E - Object Oriented Programming (C#)\C# vize öncesi\vize 1 in wpf ile yapılması\1.Soru\obj\Debug\1.Soru.pdb
+C:\Users\ykpgrr_windows\Desktop\Vize\vize 1 in wpf ile yapılması\1.Soru\bin\Debug\1.Soru.exe.config
+C:\Users\ykpgrr_windows\Desktop\Vize\vize 1 in wpf ile yapılması\1.Soru\obj\Debug\1.Soru.exe
+C:\Users\ykpgrr_windows\Desktop\Vize\vize 1 in wpf ile yapılması\1.Soru\obj\Debug\1.Soru.pdb
+C:\Users\ykpgrr_windows\Desktop\Vize\vize 1 in wpf ile yapılması\1.Soru\bin\Debug\1.Soru.exe
+C:\Users\ykpgrr_windows\Desktop\Vize\vize 1 in wpf ile yapılması\1.Soru\bin\Debug\1.Soru.pdb
+C:\Users\ykpgrr_windows\Desktop\Vize\vize 1 in wpf ile yapılması\1.Soru\obj\Debug\1.Soru.csprojResolveAssemblyReference.cache
+C:\Users\ykpgrr_windows\Desktop\Vize\vize 1 in wpf ile yapılması\1.Soru\obj\Debug\MainWindow.baml
+C:\Users\ykpgrr_windows\Desktop\Vize\vize 1 in wpf ile yapılması\1.Soru\obj\Debug\MainWindow.g.cs
+C:\Users\ykpgrr_windows\Desktop\Vize\vize 1 in wpf ile yapılması\1.Soru\obj\Debug\App.g.cs
+C:\Users\ykpgrr_windows\Desktop\Vize\vize 1 in wpf ile yapılması\1.Soru\obj\Debug\1.Soru_MarkupCompile.cache
+C:\Users\ykpgrr_windows\Desktop\Vize\vize 1 in wpf ile yapılması\1.Soru\obj\Debug\1.Soru.g.resources
+C:\Users\ykpgrr_windows\Desktop\Vize\vize 1 in wpf ile yapılması\1.Soru\obj\Debug\_1.Soru.Properties.Resources.resources
+C:\Users\ykpgrr_windows\Desktop\Vize\vize 1 in wpf ile yapılması\1.Soru\obj\Debug\1.Soru.csproj.GenerateResource.Cache

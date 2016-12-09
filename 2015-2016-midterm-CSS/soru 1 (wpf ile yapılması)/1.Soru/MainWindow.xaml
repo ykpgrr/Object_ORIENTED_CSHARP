@@ -1,0 +1,13 @@
+﻿<Window x:Class="_1.Soru.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="300" Width="504">
+    <Grid Margin="0,0,2,2">
+        <Button x:Name="Str" Content="Strategic Words Count" HorizontalAlignment="Left" Height="29" Margin="51,32,0,0" VerticalAlignment="Top" Width="152" Click="Str_Click"/>
+        <Button x:Name="Tact" Content="Tactical Word Count" HorizontalAlignment="Left" Height="29" Margin="51,83,0,0" VerticalAlignment="Top" Width="152" Click="Tact_Click"/>
+        <Button x:Name="Operational" Content="Operational Word Count" HorizontalAlignment="Left" Height="32" Margin="51,139,0,0" VerticalAlignment="Top" Width="152" Click="Operational_Click"/>
+        <TextBox x:Name="Sonuc" HorizontalAlignment="Left" Height="142" Margin="276,29,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="196"/>
+        <Button Content="Başka Dosyadan Oku" HorizontalAlignment="Left" Height="29" Margin="51,198,0,0" VerticalAlignment="Top" Width="152" Click="Button_Click" ClickMode="Press"/>
+
+    </Grid>
+</Window>
