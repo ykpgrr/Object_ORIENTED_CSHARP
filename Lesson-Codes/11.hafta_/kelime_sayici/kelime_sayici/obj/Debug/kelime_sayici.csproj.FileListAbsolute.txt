@@ -1,0 +1,6 @@
+c:\users\ondesy\documents\visual studio 2013\Projects\kelime_sayici\kelime_sayici\bin\Debug\kelime_sayici.exe.config
+c:\users\ondesy\documents\visual studio 2013\Projects\kelime_sayici\kelime_sayici\bin\Debug\kelime_sayici.exe
+c:\users\ondesy\documents\visual studio 2013\Projects\kelime_sayici\kelime_sayici\bin\Debug\kelime_sayici.pdb
+c:\users\ondesy\documents\visual studio 2013\Projects\kelime_sayici\kelime_sayici\obj\Debug\kelime_sayici.csprojResolveAssemblyReference.cache
+c:\users\ondesy\documents\visual studio 2013\Projects\kelime_sayici\kelime_sayici\obj\Debug\kelime_sayici.exe
+c:\users\ondesy\documents\visual studio 2013\Projects\kelime_sayici\kelime_sayici\obj\Debug\kelime_sayici.pdb

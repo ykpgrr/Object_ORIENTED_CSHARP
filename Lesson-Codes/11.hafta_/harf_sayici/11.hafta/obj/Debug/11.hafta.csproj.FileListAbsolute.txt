@@ -1,0 +1,6 @@
+c:\users\ondesy\documents\visual studio 2013\Projects\11.hafta\11.hafta\bin\Debug\11.hafta.exe.config
+c:\users\ondesy\documents\visual studio 2013\Projects\11.hafta\11.hafta\bin\Debug\11.hafta.exe
+c:\users\ondesy\documents\visual studio 2013\Projects\11.hafta\11.hafta\bin\Debug\11.hafta.pdb
+c:\users\ondesy\documents\visual studio 2013\Projects\11.hafta\11.hafta\obj\Debug\11.hafta.csprojResolveAssemblyReference.cache
+c:\users\ondesy\documents\visual studio 2013\Projects\11.hafta\11.hafta\obj\Debug\11.hafta.exe
+c:\users\ondesy\documents\visual studio 2013\Projects\11.hafta\11.hafta\obj\Debug\11.hafta.pdb
