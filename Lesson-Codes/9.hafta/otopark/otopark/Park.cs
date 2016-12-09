@@ -16,17 +16,17 @@ namespace otopark
             ParkingVehicle = new Vehicle[ParkSize];
 
         }
-        public bool InsertNewVehicle(Vehicle vehicle,out int ticket)
+        public bool InsertNewVehicle(Vehicle vehicle, out int ticket)
         {
-            ticket = -1;
-            if (!(EmptySpace()) > vehicle.Size)
+            ticket = -1; // ticket nasıl kullanımı var?
+            if (!(EmptySpace() > vehicle.Size))
                 return false;
             for (int i = 0; i < ParkingVehicle.Length; i++)
             {
-                if(ParkingVehicle[i]==null || ParkingVehicle[i]==default(Vehicle))
+                if (ParkingVehicle[i] == null || ParkingVehicle[i] == default(Vehicle))
                 {
                     ParkingVehicle[i] = vehicle;
-                    ticket = i;
+                    ticket = i; //ticket
                     break;
                 }
             }
@@ -58,22 +58,22 @@ namespace otopark
         private void ShowPayment(Vehicle vehicle)
         {
             double payment = 0;
-            switch(vehicle.Type)
+            switch (vehicle.Type)
             {
-                case VehicleTypes.Motocycle;
-                    payment+=5;
-                    payment+=(vehicle.Size-1)*1;
+                case VehicleTypes.Motocycle:
+                    payment += 5;
+                    payment += (vehicle.Size - 1) * 1;
                     break;
-                     case VehicleTypes.Automobile;
-                    payment+=7;
-                    payment+=(vehicle.Size-2)*3;
+                case VehicleTypes.Automobile:
+                    payment += 7;
+                    payment += (vehicle.Size - 2) * 3;
                     break;
-                     case VehicleTypes.Truck;
-                    payment+=10;
-                    payment+=(vehicle.Size-3)*6;
+                case VehicleTypes.Truck:
+                    payment += 10;
+                    payment += (vehicle.Size - 3) * 6;
                     break;
             }
-            Console.WriteLine("payment: {0}",payment)
+            Console.WriteLine("payment: {0}", payment);
         }
         public bool TicketIsValid(int ticketNumber)
         {
