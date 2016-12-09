@@ -1,0 +1,12 @@
+c:\users\varici\documents\visual studio 2013\Projects\Company\Company\bin\Debug\Company.exe.config
+c:\users\varici\documents\visual studio 2013\Projects\Company\Company\bin\Debug\Company.exe
+c:\users\varici\documents\visual studio 2013\Projects\Company\Company\bin\Debug\Company.pdb
+c:\users\varici\documents\visual studio 2013\Projects\Company\Company\obj\Debug\Company.csprojResolveAssemblyReference.cache
+c:\users\varici\documents\visual studio 2013\Projects\Company\Company\obj\Debug\Company.exe
+c:\users\varici\documents\visual studio 2013\Projects\Company\Company\obj\Debug\Company.pdb
+C:\Users\ykpgrr_windows\Desktop\Vize\Company\Company\bin\Debug\Company.exe.config
+C:\Users\ykpgrr_windows\Desktop\Vize\Company\Company\obj\Debug\Company.exe
+C:\Users\ykpgrr_windows\Desktop\Vize\Company\Company\obj\Debug\Company.pdb
+C:\Users\ykpgrr_windows\Desktop\Vize\Company\Company\bin\Debug\Company.exe
+C:\Users\ykpgrr_windows\Desktop\Vize\Company\Company\bin\Debug\Company.pdb
+C:\Users\ykpgrr_windows\Desktop\Vize\Company\Company\obj\Debug\Company.csprojResolveAssemblyReference.cache
