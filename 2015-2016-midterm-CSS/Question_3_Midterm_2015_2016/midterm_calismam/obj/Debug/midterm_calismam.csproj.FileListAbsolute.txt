@@ -1,0 +1,6 @@
+C:\Users\ykpgrr_windows\Documents\Midterm\midterm_calismam\midterm_calismam\bin\Debug\midterm_calismam.exe.config
+C:\Users\ykpgrr_windows\Documents\Midterm\midterm_calismam\midterm_calismam\bin\Debug\midterm_calismam.exe
+C:\Users\ykpgrr_windows\Documents\Midterm\midterm_calismam\midterm_calismam\bin\Debug\midterm_calismam.pdb
+C:\Users\ykpgrr_windows\Documents\Midterm\midterm_calismam\midterm_calismam\obj\Debug\midterm_calismam.exe
+C:\Users\ykpgrr_windows\Documents\Midterm\midterm_calismam\midterm_calismam\obj\Debug\midterm_calismam.pdb
+C:\Users\ykpgrr_windows\Documents\Midterm\midterm_calismam\midterm_calismam\obj\Debug\midterm_calismam.csprojResolveAssemblyReference.cache
