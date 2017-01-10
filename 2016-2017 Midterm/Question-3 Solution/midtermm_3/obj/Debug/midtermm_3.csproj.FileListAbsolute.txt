@@ -1,0 +1,6 @@
+C:\Users\ykpgrr_windows\Documents\Midterm\midtermm_3\midtermm_3\bin\Debug\midtermm_3.exe.config
+C:\Users\ykpgrr_windows\Documents\Midterm\midtermm_3\midtermm_3\obj\Debug\midtermm_3.csprojResolveAssemblyReference.cache
+C:\Users\ykpgrr_windows\Documents\Midterm\midtermm_3\midtermm_3\bin\Debug\midtermm_3.exe
+C:\Users\ykpgrr_windows\Documents\Midterm\midtermm_3\midtermm_3\bin\Debug\midtermm_3.pdb
+C:\Users\ykpgrr_windows\Documents\Midterm\midtermm_3\midtermm_3\obj\Debug\midtermm_3.exe
+C:\Users\ykpgrr_windows\Documents\Midterm\midtermm_3\midtermm_3\obj\Debug\midtermm_3.pdb

@@ -1,0 +1,9 @@
+C:\Users\ykpgrr_windows\Documents\Midterm\Midtermm_2\Midtermm_2\bin\Debug\Midtermm_2.exe.config
+C:\Users\ykpgrr_windows\Documents\Midterm\Midtermm_2\Midtermm_2\obj\Debug\Midtermm_2.csprojResolveAssemblyReference.cache
+C:\Users\ykpgrr_windows\Documents\Midterm\Midtermm_2\Midtermm_2\bin\Debug\Midtermm_2.exe
+C:\Users\ykpgrr_windows\Documents\Midterm\Midtermm_2\Midtermm_2\bin\Debug\Midtermm_2.pdb
+C:\Users\ykpgrr_windows\Documents\Midterm\Midtermm_2\Midtermm_2\obj\Debug\Midtermm_2.exe
+C:\Users\ykpgrr_windows\Documents\Midterm\Midtermm_2\Midtermm_2\obj\Debug\Midtermm_2.pdb
+C:\Users\ykpgrr_windows\Desktop\New folder (2)\Question-2 Solution\Midtermm_2\bin\Debug\Midtermm_2.exe.config
+C:\Users\ykpgrr_windows\Desktop\New folder (2)\Question-2 Solution\Midtermm_2\obj\Debug\Midtermm_2.exe
+C:\Users\ykpgrr_windows\Desktop\New folder (2)\Question-2 Solution\Midtermm_2\obj\Debug\Midtermm_2.pdb
